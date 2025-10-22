@@ -1,0 +1,20 @@
+# This folder contains all image assets for the website
+
+## Required Images:
+
+### Logo
+- logo.png (40x40px or larger, transparent background recommended)
+
+### Hero Section
+- hero-bg.jpg (1920x1080px or larger for full-width background)
+
+### Portfolio/Client Images
+- client-1.png (UGRO Capital)
+- client-2.png (Luma Fertility)
+- client-3.png (AWFIS)
+- client-4.png (Luma Fertility App)
+- client-5.png (IMWOW)
+- client-6.png (Awfis Coworking)
+
+All images should be optimized for web (compressed) to ensure fast loading times.
+Recommended dimensions for client images: 800x600px or similar aspect ratio.

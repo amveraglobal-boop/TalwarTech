@@ -1,0 +1,97 @@
+IMAGE ASSETS GUIDE
+==================
+
+This folder should contain all image assets for the website.
+
+REQUIRED IMAGES:
+---------------
+
+1. logo.png
+   - Dimensions: 40x40px minimum (can be larger, will be scaled)
+   - Format: PNG with transparent background recommended
+   - Purpose: Company logo in navigation bar
+
+2. hero-bg.jpg
+   - Dimensions: 1920x1080px or larger
+   - Format: JPG or PNG
+   - Purpose: Background image for hero section
+   - Note: Currently using CSS gradient, but you can add a background image
+
+3. client-1.png (UGRO Capital)
+   - Dimensions: 800x600px recommended
+   - Format: PNG or JPG
+   - Purpose: Portfolio showcase - Website tab
+
+4. client-2.png (Luma Fertility)
+   - Dimensions: 800x600px recommended
+   - Format: PNG or JPG
+   - Purpose: Portfolio showcase - Website tab
+
+5. client-3.png (AWFIS)
+   - Dimensions: 800x600px recommended
+   - Format: PNG or JPG
+   - Purpose: Portfolio showcase - Website tab
+
+6. client-4.png (Luma Fertility App)
+   - Dimensions: 800x600px recommended
+   - Format: PNG or JPG
+   - Purpose: Portfolio showcase - Mobile tab
+
+7. client-5.png (IMWOW)
+   - Dimensions: 800x600px recommended
+   - Format: PNG or JPG
+   - Purpose: Portfolio showcase - Mobile tab
+
+8. client-6.png (Awfis Coworking)
+   - Dimensions: 800x600px recommended
+   - Format: PNG or JPG
+   - Purpose: Portfolio showcase - Mobile tab
+
+
+WHERE TO GET PLACEHOLDER IMAGES:
+--------------------------------
+
+Free Stock Photo Websites:
+- Unsplash: https://unsplash.com/
+- Pexels: https://www.pexels.com/
+- Pixabay: https://pixabay.com/
+
+Placeholder Services:
+- Placeholder.com: https://placeholder.com/
+- Lorem Picsum: https://picsum.photos/
+
+Search Terms for Stock Photos:
+- "software development"
+- "web development"
+- "mobile app"
+- "technology"
+- "coding"
+- "business technology"
+
+
+IMAGE OPTIMIZATION TIPS:
+-----------------------
+
+1. Compress images before using them:
+   - TinyPNG: https://tinypng.com/
+   - Squoosh: https://squoosh.app/
+   - ImageOptim (Mac): https://imageoptim.com/
+
+2. Use appropriate formats:
+   - PNG: For logos and images with transparency
+   - JPG: For photos and complex images
+   - WebP: For modern browsers (optional)
+
+3. Recommended file sizes:
+   - Logo: Under 50KB
+   - Hero background: Under 500KB
+   - Client images: Under 200KB each
+
+
+CURRENT STATUS:
+--------------
+
+The website will work without images, but placeholder boxes will appear.
+Add your images to this folder to complete the website design.
+
+All image paths in index.html are already configured to look in this folder.
